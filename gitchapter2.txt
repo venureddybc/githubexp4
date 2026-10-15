@@ -1,0 +1,32 @@
+
+Quick results from the web:
+
+GitHub · Change is constant. GitHub keeps you ahead. · GitHub ...
+Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
+GitHub·https://github.com
+GitHub - Wikipedia
+GitHub. Article · Talk. Language; Save; View source; Download PDF. Not to be confused with Git or GitLab. GitHub (/ˈɡɪt.hʌb/ ) is a proprietary developer platform that allows developers to create, sto
+Wikipedia·https://en.wikipedia.org
+GitHub is a cloud-based web platform used by over 100 million developers to store, manage, share, and track their software projects. While Git is the local tool running on your computer, GitHub is the internet hosting service that connects developers globally, acting as the social network and central hub for open-source and private software development.
+
+Core Functions of GitHub
+
+• Cloud Hosting for Code: It acts as a secure, off-site backup for your local Git repositories, allowing you to access your projects from any device.
+• Team Collaboration: It provides a centralized space where multiple programmers can coordinate changes, review each other’s code, and track progress.
+• Open Source Ecosystem: GitHub hosts millions of public projects (like Linux, Python, and VS Code), allowing anyone to study the code, report issues, or contribute.
+
+Key GitHub Features
+
+
+Feature	What It Is & How It Works
+Pull Request (PR)	A request to merge your code changes into the main project. It opens a dedicated discussion board where teammates can review, comment on, and test your code before it goes live.
+Issues	A built-in project management tool used to report software bugs, request new features, or log tasks that need to be completed.
+GitHub Actions	A system for automating your workflow (CI/CD). It can automatically test your code every time you save a new version or deploy your app directly to the web.
+GitHub Copilot	An AI-powered assistant built directly into code editors that helps developers write code faster by suggesting lines or entire functions.
+
+
+Why Teams Use It
+
+Beyond simple code storage, GitHub provides crucial governance and security features for companies. Teams can lock down sensitive code branches, require senior approval before changes are made, and automatically scan files for exposed security passwords or outdated, vulnerable packages.
+Would you like to learn how to push your first local project up to GitHub, or would you prefer a quick guide on how to contribute to someone else's open-source project?
+
