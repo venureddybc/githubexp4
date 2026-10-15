@@ -1,0 +1,49 @@
+Git is a free, open-source distributed version control system designed to track changes in source code and files over time. Created by Linus Torvalds in 2005 to manage the development of the Linux kernel, it has become the de facto industry standard for software engineers worldwide, with over 90% of developers relying on it. [1, 2, 3, 4, 5] 
+Unlike older centralized version control systems, Git is distributed. This means every developer has a full copy of the project's entire history on their local machine, allowing for incredibly fast, offline work and high resilience if a server goes down. [2, 6] 
+------------------------------
+## What Git is Used For
+
+* Tracking Project History: Git takes "snapshots" of your project files at specific points in time. This acts as a permanent audit trail, letting you see exactly who changed what, when, and why. [7, 8] 
+* Collaboration: Multiple developers can work on the same codebase simultaneously without overwriting each other's changes. [4, 9] 
+* Safe Experimentation: You can step backward to previous code versions if you introduce an unexpected bug or make a mistake. [2, 7] 
+
+------------------------------
+## Core Git Concepts
+
+| Concept | Description |
+|---|---|
+| Repository (Repo) | The project directory or "central hub" where Git stores your files alongside its hidden metadata history. |
+| Commit | A saved snapshot of your changes. Each commit acts as a permanent timeline milestone. |
+| Branch | A parallel timeline. You can spin off a branch to safely work on a feature without affecting the stable main code. |
+| Merging | The process of combining changes from one branch back into another once a feature or bug fix is finished. |
+
+------------------------------
+## The Three Local States of a File
+When you are working locally on your computer, Git organizes your files into three distinct zones: [10] 
+
+   1. Working Directory: The local workspace where you are actively creating, editing, or deleting files. [11, 12] 
+   2. Staging Area (Index): A prep zone. You tell Git exactly which modified files you want to include in your next save point. [8, 10, 12] 
+   3. Local Repository: Where Git permanently saves those staged snapshots into its internal database. [10, 11] 
+
+------------------------------
+## Git vs. GitHub: What's the Difference?
+It is incredibly common to confuse Git with GitHub, but they are two distinct things: [9] 
+
+* Git is the local command-line tool that handles the tracking logic on your machine. [5, 9] 
+* GitHub is a cloud-based hosting platform. It holds remote copies of your Git repositories so you can share your code, back it up, and collaborate with others online. Alternative platforms include GitLab and Bitbucket. [2, 5, 7, 9] 
+
+If you are looking to get started, let me know if you would like me to provide the basic commands to initialize a repository or explain how to link your local code to GitHub.
+
+[1] [https://www.atlassian.com](https://www.atlassian.com/git/tutorials/what-is-git)
+[2] [https://www.geeksforgeeks.org](https://www.geeksforgeeks.org/git/what-is-git/)
+[3] https://git-scm.com
+[4] [https://www.youtube.com](https://www.youtube.com/watch?v=K6Q31YkorUE)
+[5] [https://git-scm.com](https://git-scm.com/about)
+[6] [https://github.com](https://github.com/git-guides)
+[7] [https://www.youtube.com](https://www.youtube.com/shorts/n2X2b0sGy60)
+[8] [https://www.w3schools.com](https://www.w3schools.com/git/git_intro.asp)
+[9] [https://www.youtube.com](https://www.youtube.com/watch?v=QzvA7r-WndM&vl=en&t=170)
+[10] [https://git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+[11] [https://www.youtube.com](https://www.youtube.com/watch?v=e9lnsKot_SQ&t=22)
+[12] [https://www.youtube.com](https://www.youtube.com/watch?v=r8jQ9hVA2qs&t=91)
+
